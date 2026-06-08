@@ -1,5 +1,7 @@
 # HR.skill
 
+> **"被裁前，先练一次"**
+
 交互式 HR 协商谈判对练工具。模拟资深 HR 李姐与员工进行裁员/协商对话——可用于 HR 培训，也可帮助员工识别压力话术。
 
 [English](#hrskill) · [中文](#hrskill-1)
@@ -71,6 +73,8 @@ Built with Claude Code · Open Source
 ---
 
 # HR.skill
+
+> **"Practice once before you're laid off."**
 
 An interactive HR negotiation training tool. Simulates a veteran HR "Li Jie" conducting layoffs and compensation negotiations — used to train HR professionals or help employees recognize pressure tactics.
 
